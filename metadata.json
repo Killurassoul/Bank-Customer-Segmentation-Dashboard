@@ -1,0 +1,6 @@
+{
+  "name": "Bank Customer Segmentation Dashboard",
+  "description": "Interactive bank customer segmentation with live K-Means clustering, PCA, t-SNE projection, and profile metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
